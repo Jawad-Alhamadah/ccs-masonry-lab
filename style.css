@@ -137,6 +137,21 @@ div {
 
  }
 
+.blue-right-left{
+    position: relative;
+    bottom: 350px;
+    right: 300px;
+}
+
+.orange-right-left{
+    position: relative;
+    bottom: 350px;
+    left: 300px;
+}
+
+ 
+
+
  
 
  
