@@ -39,13 +39,14 @@
   font-size: 1.2em;
 }
 div {
-  border: 1px solid red;
+
   margin: 15px;
 }
 
 .top-container {
   background-color: #e8e8e8;
   height: 50vh;
+  margin: 0px !important;
 }
 
 .img-1 {
@@ -63,6 +64,7 @@ div {
   text-align: center;
   background-color: #333333;
   color: white;
+  margin: 0px !important;
 }
 
 .center {
@@ -113,11 +115,29 @@ div {
 
  .red-left-side{
     position:relative;
-    left: 75px;
+    right: 150px;
  }
 
  .red-right-side{
     position:relative;
-    left: 75px;
+    left: 150px;
  }
+
+ .light-green-left-side{
+    position: relative;
+    bottom: 165px;
+    right: 230px;
+
+ }
+
+ .lime-green-right-side{
+    position: relative;
+    bottom: 165px;
+    left: 230px;
+
+ }
+
+ 
+
+ 
 
